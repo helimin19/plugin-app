@@ -18,3 +18,4 @@ rootProject.name = "plugin-app"
 include ':plugin-app-loader'
 include ':plugin-app-runtime'
 include ':plugin-app-demo1'
+include ':plugin-app-demo2'
