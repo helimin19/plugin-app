@@ -64,7 +64,7 @@ android {
     // 将插件applicationId设置为和宿主相同
     productFlavors {
         plugin {
-            applicationId "com.hlm.plugin.host"
+            applicationId "com.shenzhenmc.nocc"
         }
     }
 
